@@ -1,0 +1,1 @@
+{ "manifest_version": 3, "name": "Middle Click Disney+", "description": "Allows you to open a disney+ title on a new page. I'm tired that I always have to backpedal to watch a next episode in a collection for example.", "version": "0.1", "action": { "default_popup": "public/index.html", "default_icon": "public/images/icon.png" } }
